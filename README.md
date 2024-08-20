@@ -51,4 +51,8 @@ root
     - Better separation inside the controller as some of the error statuses and hardcoded things can be moved out
     - Handling route validation using something like Joi
     - Add logging to the codebase to track errors and failure
-    
+
+#### Screenshots
+<img width="1202" alt="Screenshot 2024-08-20 at 16 13 52" src="https://github.com/user-attachments/assets/b6c6ad80-7e4b-4612-a97f-d621b0d68193">
+<img width="718" alt="Screenshot 2024-08-20 at 16 14 12" src="https://github.com/user-attachments/assets/ca66ba3f-aff5-4346-8cff-128ea6e0e4d9">
+<img width="1001" alt="Screenshot 2024-08-20 at 16 14 26" src="https://github.com/user-attachments/assets/7f9f86a5-a541-441c-878f-1c62b66f3d4d">
