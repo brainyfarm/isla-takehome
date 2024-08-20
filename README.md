@@ -47,4 +47,8 @@ root
         - [index.html](https://github.com/brainyfarm/isla-takehome/blob/main/src/views/index.html)
     - [app.js](https://github.com/brainyfarm/isla-takehome/blob/main/src/app.js)
 
-
+    ### Available areas for Improvement
+    - Better separation inside the controller as some of the error statuses and hardcoded things can be moved out
+    - Handling route validation using something like Joi
+    - Add logging to the codebase to track errors and failure
+    
