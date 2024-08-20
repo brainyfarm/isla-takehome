@@ -10,7 +10,7 @@ import PatientDataExtractor from "../../lib/extractor/extractor.js";
 
 class ExtractController {
   static async getHome(req, res) {
-    res.sendFile("views/index.html", { root: "./" });
+    res.sendFile("index.html", { root: "./src/views" });
   }
 
   static async extractData(req, res) {
