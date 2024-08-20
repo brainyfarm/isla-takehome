@@ -1,0 +1,25 @@
+{
+  "name": "isla-takehome",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "module",
+  "repository": "https://github.com/brainyfarm/isla-takehome",
+  "author": "Olawale Akinseye <brainyfarm@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@sequelize/sqlite3": "^7.0.0-alpha.41",
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.24.8",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4"
+  }
+}
